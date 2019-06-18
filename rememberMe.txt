@@ -1,0 +1,4 @@
+yarn add multer -> lida com multpart formdata
+yarn add sharp -> manipular imagens
+yarn add cors -> permite acesso em dominios diferentes
+yarn add socket.io -> protocolo websocket (REAL TIME)
