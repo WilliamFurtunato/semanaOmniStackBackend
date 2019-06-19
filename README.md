@@ -1,2 +1,1 @@
-# semanaOmnistack7
 # semanaOmniStackBackend
